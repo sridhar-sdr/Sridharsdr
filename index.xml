@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Sridhar P</title>
+    <link>https://sridhar-sdr.github.io/Sridharsdr/</link>
+    <description>Recent content in Data Science Portfolio on Sridhar P</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Sep 2020 12:00:00 -0500</lastBuildDate><atom:link href="https://sridhar-sdr.github.io/Sridharsdr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: EDA on Haberman data set</title>
+      <link>https://sridhar-sdr.github.io/Sridharsdr/post/chapter-1/</link>
+      <pubDate>Tue, 22 Sep 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://sridhar-sdr.github.io/Sridharsdr/post/chapter-1/</guid>
+      <description>About this file
+   Title: Haberman&amp;rsquo;s Survival Data      Sources:    (a) Donor: Tjen-Sien Lim (limt@stat.wisc.edu)    (b) Date: March 4, 1999        Past Usage:      Haberman, S. J. (1976). Generalized Residuals for Log-Linear    Models, Proceedings of the 9th International Biometrics    Conference, Boston, pp.</description>
+    </item>
+    
+    <item>
+      <title>Project 2:Human activity Recognition</title>
+      <link>https://sridhar-sdr.github.io/Sridharsdr/post/chapter-2/</link>
+      <pubDate>Thu, 10 Sep 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://sridhar-sdr.github.io/Sridharsdr/post/chapter-2/</guid>
+      <description>Working in progress</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://sridhar-sdr.github.io/Sridharsdr/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sridhar-sdr.github.io/Sridharsdr/contact/</guid>
+      <description>Find me on these social media platforms.
+   Platform URL     YouTube: https://www.youtube.com/channel/UCfkmy8TwylXuO8j6HE3OAeA   LinkedIn: https://www.linkedin.com/in/sridhar-p-10bb2490/   Medium: soon   GitHub: https://github.com/sridhar-sdr    </description>
+    </item>
+    
+  </channel>
+</rss>
